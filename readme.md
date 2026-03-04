@@ -116,14 +116,8 @@ Once something sparks my curiosity, I go all the way down the rabbit hole.
 
 ## 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zehjulianlp&show_icons=true&locale=en&layout=compact" alt="zehjulianlp" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ZehJulianLp&show_icons=true" />
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zehjulianlp&show_icons=true&locale=en" alt="zehjulianlp" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZehJulianLp&layout=compact" />
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zehjulianlp&" alt="zehjulianlp" />
-</p>
+<img src="https://streak-stats.demolab.com?user=ZehJulianLp" />
